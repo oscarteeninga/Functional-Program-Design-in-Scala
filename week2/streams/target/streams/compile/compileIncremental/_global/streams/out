@@ -1,0 +1,40 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week2/streams/src/main/scala/streams/Solver.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week2/streams/target/scala-2.13/classes/streams/Solver.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(streams.Solver)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week2/streams/src/main/scala/streams/Solver.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(streams.Solver)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week2/streams/src/main/scala/streams/Solver.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: streams.Solver[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding streams.Bloxorz.Level by streams.Solver[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding streams.Bloxorz.Level1 by streams.Bloxorz.Level[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding streams.Bloxorz.Level0 by streams.Bloxorz.Level[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding streams.Bloxorz.InfiniteLevel by streams.Solver[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week2/streams/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.4:compile for Scala 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.4:compile for Scala 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 28d55695 for Scala compiler version 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-language:implicitConversions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/oscar/jdk1.8.0_251/jre/lib/resources.jar:/home/oscar/jdk1.8.0_251/jre/lib/rt.jar:/home/oscar/jdk1.8.0_251/jre/lib/sunrsasign.jar:/home/oscar/jdk1.8.0_251/jre/lib/jsse.jar:/home/oscar/jdk1.8.0_251/jre/lib/jce.jar:/home/oscar/jdk1.8.0_251/jre/lib/charsets.jar:/home/oscar/jdk1.8.0_251/jre/lib/jfr.jar:/home/oscar/jdk1.8.0_251/jre/classes:/home/oscar/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week2/streams/target/scala-2.13/classes:/home/oscar/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar:/home/oscar/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalacheck/scalacheck_2.13/1.14.0/scalacheck_2.13-1.14.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.197561415 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m
