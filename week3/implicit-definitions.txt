@@ -1,0 +1,11 @@
+1. Implicit definitions can take implicit parameters?
+>> true
+
+2. At most two implicit definitions can be chained together.
+>> false
+
+3. Consider the following program:
+>> implicitly[Solid](freeze(condense(air)))
+
+GRADE: 100%
+
