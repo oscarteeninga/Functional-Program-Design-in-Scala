@@ -1,0 +1,95 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/src/main/scala/codecs/codecs.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Bool.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/PersonCodecs.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Arr.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Obj.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/ContactsCodecs.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Decoder.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Num.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/DecoderInstances.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/DecoderInstances$$anonfun$stringDecoder$1.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Str$.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Num$.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Str.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Main.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Obj$.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/EncoderInstances.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/ObjectEncoder$$anon$2.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Main$.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/ObjectEncoder$.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/DecoderInstances$$anonfun$booleanDecoder$1.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Person$.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Encoder.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Encoder$$anon$1.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Json.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Null$.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/DecoderInstances$$anonfun$unitDecoder$1.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Decoder$$anon$3.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/ObjectEncoder.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Person.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Bool$.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Contacts$.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Json$Arr$.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Encoder$.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Decoder$.class, /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes/codecs/Contacts.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(codecs.Json.Arr, codecs.EncoderInstances, codecs.DecoderInstances, codecs.Person, codecs.Json.Str, codecs.Json.Bool, codecs.Json.Null, codecs.Encoder, codecs.Decoder, codecs.Json.Obj, codecs.ContactsCodecs, codecs.Main, codecs.ObjectEncoder, codecs.Json, codecs.Contacts, codecs.PersonCodecs, codecs.Json.Num)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/src/main/scala/codecs/codecs.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(codecs.Json.Arr, codecs.EncoderInstances, codecs.DecoderInstances, codecs.Person, codecs.Json.Str, codecs.Json.Bool, codecs.Json.Null, codecs.Encoder, codecs.Decoder, codecs.Json.Obj, codecs.ContactsCodecs, codecs.Main, codecs.ObjectEncoder, codecs.Json, codecs.Contacts, codecs.PersonCodecs, codecs.Json.Num)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/src/main/scala/codecs/codecs.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: codecs.Json.Arr, codecs.EncoderInstances, codecs.DecoderInstances, codecs.Person, codecs.Json.Str, codecs.Json.Bool, codecs.Json.Null, codecs.Encoder, codecs.Decoder, codecs.Json.Obj, codecs.ContactsCodecs, codecs.Main, codecs.ObjectEncoder, codecs.Json, codecs.Contacts, codecs.PersonCodecs, codecs.Json.Num[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding codecs.Encoder by codecs.EncoderInstances[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding codecs.ObjectEncoder by codecs.Encoder[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding codecs.Decoder by codecs.DecoderInstances[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding codecs.Contacts by codecs.ContactsCodecs[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding codecs.Json.Num by codecs.Json[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.4:compile for Scala 2.13.1[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.4:compile for Scala 2.13.1[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 5aca58bc for Scala compiler version 2.13.1[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/oscar/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week3/codecs/target/scala-2.13/classes:/home/oscar/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/jawn-parser_2.13/0.14.2/jawn-parser_2.13-0.14.2.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.473852514 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from codecs.Contacts...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: codecs.Contacts[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(codecs.Contacts)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(codecs.Contacts,ModifiedNames(changes = UsedName(contactsDecoder,[Implicit]), UsedName(contactsEncoder,[Implicit]))) invalidates 1 classes due to The codecs.Contacts has the following implicit definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(contactsDecoder,[Implicit]), UsedName(contactsEncoder,[Implicit]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(codecs.Contacts)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from codecs.Json...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: codecs.Json[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding codecs.Json.Arr by codecs.Json[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding codecs.Json.Str by codecs.Json[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding codecs.Json.Bool by codecs.Json[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding codecs.Json.Null by codecs.Json[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding codecs.Json.Obj by codecs.Json[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding codecs.Json.Num by codecs.Json[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(codecs.Json.Arr, codecs.Json.Str, codecs.Json.Bool, codecs.Json.Null, codecs.Json.Obj, codecs.Json, codecs.Json.Num)[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of codecs.Util. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of codecs.Util. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of codecs.Util. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of codecs.Util. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of codecs.Util. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of codecs.Util. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of codecs.Util. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(codecs.Json,ModifiedNames(changes = UsedName(finalize,[Default]))) invalidates 7 classes due to The codecs.Json has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(codecs.Json.Arr, codecs.Json.Str, codecs.Json.Bool, codecs.Json.Null, codecs.Json.Obj, codecs.Json, codecs.Json.Num)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from codecs.ContactsCodecs...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: codecs.ContactsCodecs[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding codecs.Contacts by codecs.ContactsCodecs[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(codecs.Contacts, codecs.ContactsCodecs)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(codecs.ContactsCodecs,ModifiedNames(changes = UsedName(contactsDecoder,[Implicit]), UsedName(contactsEncoder,[Implicit]))) invalidates 2 classes due to The codecs.ContactsCodecs has the following implicit definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(contactsDecoder,[Implicit]), UsedName(contactsEncoder,[Implicit]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(codecs.Contacts, codecs.ContactsCodecs)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from codecs.EncoderInstances...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: codecs.EncoderInstances[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding codecs.Encoder by codecs.EncoderInstances[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding codecs.ObjectEncoder by codecs.Encoder[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(codecs.ObjectEncoder, codecs.Encoder, codecs.EncoderInstances)[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of codecs.Util. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(codecs.EncoderInstances,ModifiedNames(changes = UsedName(finalize,[Default]))) invalidates 3 classes due to The codecs.EncoderInstances has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(codecs.ObjectEncoder, codecs.Encoder, codecs.EncoderInstances)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set(codecs.Json.Arr, codecs.Json.Str, codecs.Json.Bool, codecs.Json.Null, codecs.Encoder, codecs.Json.Obj, codecs.ObjectEncoder, codecs.Json.Num)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: codecs.Json.Arr, codecs.Json.Str, codecs.Json.Bool, codecs.Json.Null, codecs.Encoder, codecs.Json.Obj, codecs.ObjectEncoder, codecs.Json.Num[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding codecs.Util by codecs.Json.Arr[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding codecs.Main by codecs.Util[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m
