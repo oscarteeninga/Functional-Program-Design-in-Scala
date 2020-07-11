@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 [info] Writing structure to /private/var/folders/5n/yrdnvtdd45n9qh__3tnq1svw0000gn/T/sbt-structure.xml...
+=======
+[info] Writing structure to /tmp/sbt-structure.xml...
+>>>>>>> 92c848fde6cf253879f28ad84437bcd3e7b2351f
 [info] Done.

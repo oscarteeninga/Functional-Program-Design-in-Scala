@@ -1,5 +1,10 @@
 package example
 
+<<<<<<< HEAD
+=======
+import java.util.NoSuchElementException
+
+>>>>>>> 92c848fde6cf253879f28ad84437bcd3e7b2351f
 object Lists {
 
   /**
@@ -42,10 +47,18 @@ object Lists {
    */
   def max(xs: List[Int]): Int = {
     def maxAcc(ys: List[Int], acc: Int): Int = ys match {
+<<<<<<< HEAD
       case y :: ys => if (y > acc) maxAcc(ys, y) else maxAcc(ys, acc)
       case Nil => acc
     }
     if (xs.nonEmpty) maxAcc(xs.tail, xs.head)
     else throw new NoSuchElementException("There is no max value for empty list")
+=======
+      case Nil => acc
+      case z :: zs => if (z > acc) maxAcc(zs, z) else maxAcc(zs, acc)
+    }
+    if (xs.nonEmpty) maxAcc(xs.tail, xs.head)
+    else throw new NoSuchElementException("There is no max value in empty list")
+>>>>>>> 92c848fde6cf253879f28ad84437bcd3e7b2351f
   }
 }

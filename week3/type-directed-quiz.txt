@@ -1,0 +1,25 @@
+1. Type-directed programming is a language mechanism that
+>> inferes values from types
+
+2. When the compiler infers an implicit parameter of type T, it searches for possible candidates in
+>> all except implict definitions found in the classpath
+
+3. What is the output of the following program?
+>> 42
+
+4. What is the output of the following program?
+>> 0
+
+5. How could you change the first line of this program to make it compile?
+>> implicit val world: String = "World"
+
+6. What is the output of the following program?
+>> 3
+
+7. Consider the following program:
+>> implicitly[Show[Int]](Show.showInt)
+
+8. What is the output of the following program?
+>> Int(42)
+
+GRADE: 100%

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="PCOT" name="example.ListsSuite" tests="6" errors="0" failures="2" skipped="0" time="0.065" timestamp="2020-07-06T12:47:24">
+                     <properties>
+      <property name="jline.esc.timeout" value="0"/><property name="jna.platform.library.path" value="/usr/lib/x86_64-linux-gnu:/lib/x86_64-linux-gnu:/usr/lib64:/lib64:/usr/lib:/lib:/lib/i386-linux-gnu:/usr/lib/x86_64-linux-gnu/libfakeroot"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="sun.boot.library.path" value="/home/oscar/jdk1.8.0_251/jre/lib/amd64"/><property name="java.vm.version" value="25.251-b08"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="java.vendor.url" value="http://java.oracle.com/"/><property name="path.separator" value=":"/><property name="jna.loaded" value="true"/><property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/><property name="file.encoding.pkg" value="sun.io"/><property name="user.country" value="PL"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="sun.os.patch.level" value="unknown"/><property name="jna.nosys" value="true"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="user.dir" value="/home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week1/example"/><property name="java.runtime.version" value="1.8.0_251-b08"/><property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/><property name="idea.managed" value="true"/><property name="java.endorsed.dirs" value="/home/oscar/jdk1.8.0_251/jre/lib/endorsed"/><property name="os.arch" value="amd64"/><property name="java.io.tmpdir" value="/tmp"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="log4j.ignoreTCL" value="true"/><property name="os.name" value="Linux"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="jnidispatch.path" value="/tmp/jna-106035056/jna6861567601750088398.tmp"/><property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.class.version" value="52.0"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="os.version" value="5.4.0-40-generic"/><property name="swoval.tmpdir" value="/home/oscar/.sbt/1.0"/><property name="user.home" value="/home/oscar"/><property name="user.timezone" value="Europe/Warsaw"/><property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/><property name="file.encoding" value="UTF-8"/><property name="java.specification.version" value="1.8"/><property name="java.class.path" value="/home/oscar/.local/share/JetBrains/IdeaIC2020.1/Scala/launcher/sbt-launch.jar"/><property name="user.name" value="oscar"/><property name="jline.shutdownhook" value="false"/><property name="java.vm.specification.version" value="1.8"/><property name="sun.java.command" value="/home/oscar/.local/share/JetBrains/IdeaIC2020.1/Scala/launcher/sbt-launch.jar early(addPluginSbtFile=&quot;&quot;&quot;/tmp/idea.sbt&quot;&quot;&quot;) ; set ideaPort in Global := 45471 ; idea-shell"/><property name="java.home" value="/home/oscar/jdk1.8.0_251/jre"/><property name="sun.arch.data.model" value="64"/><property name="user.language" value="pl"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="awt.toolkit" value="sun.awt.X11.XToolkit"/><property name="java.vm.info" value="mixed mode"/><property name="java.version" value="1.8.0_251"/><property name="java.ext.dirs" value="/home/oscar/jdk1.8.0_251/jre/lib/ext:/usr/java/packages/lib/ext"/><property name="sun.boot.class.path" value="/home/oscar/jdk1.8.0_251/jre/lib/resources.jar:/home/oscar/jdk1.8.0_251/jre/lib/rt.jar:/home/oscar/jdk1.8.0_251/jre/lib/sunrsasign.jar:/home/oscar/jdk1.8.0_251/jre/lib/jsse.jar:/home/oscar/jdk1.8.0_251/jre/lib/jce.jar:/home/oscar/jdk1.8.0_251/jre/lib/charsets.jar:/home/oscar/jdk1.8.0_251/jre/lib/jfr.jar:/home/oscar/jdk1.8.0_251/jre/classes"/><property name="java.vendor" value="Oracle Corporation"/><property name="file.separator" value="/"/><property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/><property name="sbt.supershell" value="false"/><property name="sun.io.unicode.encoding" value="UnicodeLittle"/><property name="sun.cpu.endian" value="little"/><property name="sun.desktop" value="gnome"/><property name="sun.cpu.isalist" value=""/>
+    </properties>
+                     <testcase classname="example.ListsSuite" name="one plus one is three (0pts)?" time="0.047">
+                                                 <failure message="java.lang.AssertionError: assertion failed" type="sbt.ForkMain$ForkError">sbt.ForkMain$ForkError: java.lang.AssertionError: assertion failed
+	at scala.Predef$.assert(Predef.scala:267)
+	at example.ListsSuite.one$u0020plus$u0020one$u0020is$u0020three$u0020$u00280pts$u0029$qmark(ListsSuite.scala:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$StatementThread.run(FailOnTimeout.java:74)
+</failure>
+                                               </testcase><testcase classname="example.ListsSuite" name="max of a few numbers (10pts)" time="0.015">
+                                                 
+                                               </testcase><testcase classname="example.ListsSuite" name="intNotZero throws an exception if its argument is 0" time="0.0">
+                                                 
+                                               </testcase><testcase classname="example.ListsSuite" name="details why one plus one is not three (0pts)" time="0.001">
+                                                 <failure message="java.lang.AssertionError: expected:&lt;3&gt; but was:&lt;2&gt;" type="sbt.ForkMain$ForkError">sbt.ForkMain$ForkError: java.lang.AssertionError: expected:&lt;3&gt; but was:&lt;2&gt;
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.Assert.failNotEquals(Assert.java:743)
+	at org.junit.Assert.assertEquals(Assert.java:118)
+	at org.junit.Assert.assertEquals(Assert.java:555)
+	at org.junit.Assert.assertEquals(Assert.java:542)
+	at example.ListsSuite.details$u0020why$u0020one$u0020plus$u0020one$u0020is$u0020not$u0020three$u0020$u00280pts$u0029(ListsSuite.scala:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$StatementThread.run(FailOnTimeout.java:74)
+</failure>
+                                               </testcase><testcase classname="example.ListsSuite" name="sum of a few numbers (10pts)" time="0.001">
+                                                 
+                                               </testcase><testcase classname="example.ListsSuite" name="one plus one is two (0pts)" time="0.001">
+                                                 
+                                               </testcase>
+                     <system-out><![CDATA[]]></system-out>
+                     <system-err><![CDATA[]]></system-err>
+                   </testsuite>

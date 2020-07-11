@@ -1,2 +1,6 @@
 [0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+<<<<<<< HEAD
 [0m[[0m[0mdebug[0m] [0m[0m	(/Users/oscarteeninga/Documents/Extra/Scala/Functional-Program-Design-In-Scala/week1/example/project/target/scala-2.12/sbt-1.0/resource_managed/main/sbt/sbt.autoplugins,/Users/oscarteeninga/Documents/Extra/Scala/Functional-Program-Design-In-Scala/week1/example/project/target/scala-2.12/sbt-1.0/classes/sbt/sbt.autoplugins)[0m
+=======
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week1/example/project/target/scala-2.12/sbt-1.0/resource_managed/main/sbt/sbt.autoplugins,/home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week1/example/project/target/scala-2.12/sbt-1.0/classes/sbt/sbt.autoplugins)[0m
+>>>>>>> 92c848fde6cf253879f28ad84437bcd3e7b2351f

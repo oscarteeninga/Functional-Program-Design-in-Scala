@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [0m[[0m[0mdebug[0m] [0m[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
 [0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
@@ -28,3 +29,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m	/Users/oscarteeninga/Documents/Extra/Scala/Functional-Program-Design-In-Scala/week1/example/target/scala-2.13/classes[0m
 [0m[[0m[0mdebug[0m] [0m[0mScala compilation took 2.396348657 s[0m
 [0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+=======
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m
+>>>>>>> 92c848fde6cf253879f28ad84437bcd3e7b2351f

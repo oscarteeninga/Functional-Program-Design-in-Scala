@@ -1,3 +1,8 @@
 [debug] "not up to date. inChanged = true, force = false
+<<<<<<< HEAD
 [debug] Updating ProjectRef(uri("file:/Users/oscarteeninga/Documents/Extra/Scala/Functional-Program-Design-In-Scala/week1/example/"), "example")...
 [debug] Done updating ProjectRef(uri("file:/Users/oscarteeninga/Documents/Extra/Scala/Functional-Program-Design-In-Scala/week1/example/"), "example")
+=======
+[debug] Updating ProjectRef(uri("file:/home/oscar/Dokumenty/Kurs%20Scala/Functional-Program-Design-in-Scala/week1/example/"), "example")...
+[debug] Done updating ProjectRef(uri("file:/home/oscar/Dokumenty/Kurs%20Scala/Functional-Program-Design-in-Scala/week1/example/"), "example")
+>>>>>>> 92c848fde6cf253879f28ad84437bcd3e7b2351f

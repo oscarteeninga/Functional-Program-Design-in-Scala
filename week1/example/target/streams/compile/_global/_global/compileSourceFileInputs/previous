@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.13.1":{"hashes":[["/Users/oscarteeninga/Documents/Extra/Scala/Functional-Program-Design-In-Scala/week1/example/src/main/scala/example/Lists.scala","28eee219e697bd90a1d6093d6aa2571def5410de"]],"lastModifiedTimes":[]}}]
+=======
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.13.1":{"hashes":[["/home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week1/example/src/main/scala/example/Lists.scala","b1fc7566d1d5546c58c512b1f7690da130f72132"]],"lastModifiedTimes":[]}}]
+>>>>>>> 92c848fde6cf253879f28ad84437bcd3e7b2351f

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/oscarteeninga/Documents/Extra/Scala/Functional-Program-Design-In-Scala/week1/example/target/scala-2.13/progfun1-example-without-resources_2.13-0.1.0-SNAPSHOT.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	example[0m
@@ -6,4 +7,14 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/oscarteeninga/Documents/Extra/Scala/Functional-Program-Design-In-Scala/week1/example/target/scala-2.13/classes/example/Lists$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	example/Lists.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/oscarteeninga/Documents/Extra/Scala/Functional-Program-Design-In-Scala/week1/example/target/scala-2.13/classes/example/Lists.class[0m
+=======
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week1/example/target/scala-2.13/progfun1-example-without-resources_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week1/example/target/scala-2.13/classes/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Lists.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week1/example/target/scala-2.13/classes/example/Lists.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Lists$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week1/example/target/scala-2.13/classes/example/Lists$.class[0m
+>>>>>>> 92c848fde6cf253879f28ad84437bcd3e7b2351f
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

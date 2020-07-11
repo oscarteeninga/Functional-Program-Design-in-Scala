@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 [0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /Users/oscarteeninga/Documents/Extra/Scala/Functional-Program-Design-In-Scala/week1/example/project/target/.sbt-compilation-infos/example-compile/.sbt-idea-lock ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /Users/oscarteeninga/Documents/Extra/Scala/Functional-Program-Design-In-Scala/week1/example/project/target/.sbt-compilation-infos/example-compile/.sbt-idea-lock.[0m
+=======
+[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week1/example/project/target/.sbt-compilation-infos/example-compile/.sbt-idea-lock ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /home/oscar/Dokumenty/Kurs Scala/Functional-Program-Design-in-Scala/week1/example/project/target/.sbt-compilation-infos/example-compile/.sbt-idea-lock.[0m
+>>>>>>> 92c848fde6cf253879f28ad84437bcd3e7b2351f

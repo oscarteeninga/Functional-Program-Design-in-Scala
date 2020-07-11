@@ -3,6 +3,10 @@
   <component name="ScalaSbtSettings">
     <option name="linkedExternalProjectsSettings">
       <SbtProjectSettings>
+<<<<<<< HEAD
+=======
+        <option name="allowSbtVersionOverride" value="false" />
+>>>>>>> 92c848fde6cf253879f28ad84437bcd3e7b2351f
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>

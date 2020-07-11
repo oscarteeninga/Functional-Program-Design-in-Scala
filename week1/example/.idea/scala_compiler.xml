@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
+<<<<<<< HEAD
     <profile name="sbt 1" modules="example_3976" />
     <profile name="sbt 2" modules="progfun1-example">
+=======
+    <profile name="sbt 1" modules="progfun1-example">
+>>>>>>> 92c848fde6cf253879f28ad84437bcd3e7b2351f
       <option name="implicitConversions" value="true" />
       <option name="deprecationWarnings" value="true" />
     </profile>

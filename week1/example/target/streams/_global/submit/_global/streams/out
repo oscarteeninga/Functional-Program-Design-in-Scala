@@ -1,7 +1,11 @@
 [0m[[0m[0minfo[0m] [0m[0mAttempting to submit "example" assignment in "progfun1" course[0m
 [0m[[0m[0minfo[0m] [0m[0mUsing:[0m
 [0m[[0m[0minfo[0m] [0m[0m- email: teeninga@student.agh.edu.pl[0m
+<<<<<<< HEAD
 [0m[[0m[0minfo[0m] [0m[0m- submit token: mm2ND4idCSBBOiJj[0m
+=======
+[0m[[0m[0minfo[0m] [0m[0m- submit token: YlHEYazdHS8yXh3o[0m
+>>>>>>> 92c848fde6cf253879f28ad84437bcd3e7b2351f
 [0m[[0m[0minfo[0m] [0m[0mConnecting to Coursera...[0m
 [0m[[0m[0minfo[0m] [0m[0mSuccessfully connected to Coursera. (Status 201)[0m
 [0m[[0m[0minfo[0m] [0m[0m[0m

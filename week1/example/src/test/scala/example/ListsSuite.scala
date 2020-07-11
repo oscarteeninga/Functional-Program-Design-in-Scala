@@ -11,7 +11,11 @@ import org.junit.Assert.assertEquals
  *
  * To run this test suite, start "sbt" then run the "test" command.
  */
+<<<<<<< HEAD
 class ListsSuite {
+=======
+ class ListsSuite {
+>>>>>>> 92c848fde6cf253879f28ad84437bcd3e7b2351f
 
   /**
    * Tests are written using the @Test annotation
@@ -50,7 +54,11 @@ class ListsSuite {
    * when writing tests.
    */
   @Test def `details why one plus one is not three (0pts)`: Unit = {
+<<<<<<< HEAD
     Assert.assertEquals(2, 1 + 1) // Fix me, please!
+=======
+    Assert.assertEquals(3, 3) // Fix me, please!
+>>>>>>> 92c848fde6cf253879f28ad84437bcd3e7b2351f
   }
 
   /**
