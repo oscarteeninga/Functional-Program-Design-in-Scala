@@ -5,3 +5,4 @@ Assigments results:
 1. Quickcheck: 90%
 2. Bloxorz:     100%
 3. JSON Codecs: 100%
+5. Calculator:  100%
